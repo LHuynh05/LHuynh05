@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Leon Huynh</h1>
+<h1 align="center">Aloha 🤙 I'm Leon Huynh</h1>
 <h3 align="center">A passionate software engineer from Hawaii.</h3>
 
 - 📫 How to reach me **lahuynh@hawaii.edu**
