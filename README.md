@@ -7,7 +7,7 @@
   Aloha, I'm <strong>Leon</strong>.
 </p>
 <p align="center">
-  I love software engineering and the advancement of capabilities through technology.  My motto is the only constant is change.    
+  I love software engineering and the advancement of our capabilities through technology.  My motto is the only constant is change.    
 </p>
 <p align="center">
 I'm currently working on an app that serves as a directory for tourist visiting Hawaii.
