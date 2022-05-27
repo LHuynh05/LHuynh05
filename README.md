@@ -39,7 +39,6 @@ I'm pretty good at poker, when I get the right cards.  Want to play?
 	<img src="https://img.shields.io/badge/JavaScript-1e81b0?style=plastic&logo=javascript&logoColor=F7DF1E" height=25>
 	<img src="https://img.shields.io/badge/Node.js-1e81b0?style=plastic&logo=nodedotjs&logoColor=white" height=25>
 	<img src="https://img.shields.io/badge/React-1e81b0?style=plastic&logo=react&logoColor=61DAFB" height=25>
-	<img src="https://img.shields.io/badge/Express.js-1e81b0?style=plastic&logo=express&logoColor=white" height=25>
 	<img src="https://img.shields.io/badge/MongoDB-1e81b0?style=plastic&logo=mongodb&logoColor=white" height=25>
 	<img src="https://img.shields.io/badge/Figma-1e81b0?style=plastic&logo=figma&logoColor=white" height=25>
 	<img src="https://img.shields.io/badge/Visual_Studio-1e81b0?style=plastic&logo=visual%20studio&logoColor=white" height=25>
