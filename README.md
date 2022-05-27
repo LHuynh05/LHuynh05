@@ -1,14 +1,49 @@
-<h1 align="center">Aloha 🤙 I'm Leon Huynh</h1>
-<h3 align="center">A passionate software engineer from Hawaii.</h3>
+<body bgcolor="#cbeeed">
+<img align="center" src="https://user-images.githubusercontent.com/99232909/170630998-39d05ea1-55c5-4cd2-971b-1b091762a57e.png">
 
-- 📫 How to reach me **lahuynh@hawaii.edu**
-
-- ⚡ Fun fact **I'm pretty good at poker, when I get the right cards.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cityheightspad5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cityheightspad5" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=1e81b0&center=true&vCenter=true&lines=software+engineer;gamer;poker+player;girl+dad;">
+  <br>
+  Aloha, I'm <strong>Leon</strong>.
+</p>
+<p align="center">
+  I love software engineering and the advancement of capabilities through technology.  My motto is the only constant is change.    
+</p>
+<p align="center">
+I'm currently working on an app that serves as a directory for tourist visiting Hawaii.
+</p>
+<p align="center">
+I'm pretty good at poker, when I get the right cards.  Want to play? 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<!-- SOCIALS -->
+<h3 align="center">Contact Me</h3>
+<p align="center">
+  <a href="https://twitter.com/cityheightspad5"><img src="https://img.shields.io/badge/Twitter-1e81b0?&style=plastic&logo=twitter&logoColor=white" height=25></a>
+  <a href="https://www.codewars.com/users/LHuynh05"><img src="https://img.shields.io/badge/Codewars-1e81b0?style=plastic&logo=Codewars&logoColor=white" height=25></a>
+  <a href="mailto:lahuynh@hawaii.edu"><img src="https://img.shields.io/badge/Email-1e81b0?style=plastic&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/leon-huynh-4872411a4/"><img src="https://img.shields.io/badge/LinkedIn-1e81b0?style=plastic&logo=linkedin&logoColor=white" height=25></a>
+  <!-- <a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-CB4D89?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
+</p>
+
+
+<!-- LANGUAGES/TOOLS -->
+<h3 align="center">Code Stats</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LHuynh05&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+</p>
+<h3 align="center">Technical Skills</h3>
+  <p align="center">
+	<img src="https://img.shields.io/badge/HTML5-1e81b0?style=plastic&logo=html5&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/CSS3-1e81b0?style=plastic&logo=css3&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/JavaScript-1e81b0?style=plastic&logo=javascript&logoColor=F7DF1E" height=25>
+	<img src="https://img.shields.io/badge/Node.js-1e81b0?style=plastic&logo=nodedotjs&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/React-1e81b0?style=plastic&logo=react&logoColor=61DAFB" height=25>
+	<img src="https://img.shields.io/badge/Express.js-1e81b0?style=plastic&logo=express&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/MongoDB-1e81b0?style=plastic&logo=mongodb&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/Figma-1e81b0?style=plastic&logo=figma&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/Visual_Studio-1e81b0?style=plastic&logo=visual%20studio&logoColor=white" height=25>
+	<img src="https://img.shields.io/badge/GIT-1e81b0?style=plastic&logo=git&logoColor=white" height=25>
+  </p>
+<!-- PROJECTS -->
+</body>
