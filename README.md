@@ -2,7 +2,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/99232909/170630998-39d05ea1-55c5-4cd2-971b-1b091762a57e.png">
 
 
-  Aloha, I'm <strong>Leon</strong>.
+  							Aloha, I'm <strong>Leon</strong>.
 </p>
 <p align="center">
   I love software engineering and the advancement of our capabilities through technology.  My motto is the only constant is change.    
