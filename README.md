@@ -1,9 +1,7 @@
 <body bgcolor="#cbeeed">
 <img align="center" src="https://user-images.githubusercontent.com/99232909/170630998-39d05ea1-55c5-4cd2-971b-1b091762a57e.png">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=1e81b0&center=true&vCenter=true&lines=software+engineer;gamer;poker+player;girl+dad;">
-  <br>
+
   Aloha, I'm <strong>Leon</strong>.
 </p>
 <p align="center">
