@@ -1,7 +1,7 @@
 <body bgcolor="#cbeeed">
 <img align="center" src="https://user-images.githubusercontent.com/99232909/170630998-39d05ea1-55c5-4cd2-971b-1b091762a57e.png">
 
-
+<p align="center">
   							Aloha, I'm Leon.
 </p>
 <p align="center">
