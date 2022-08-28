@@ -19,7 +19,7 @@ The best way to reach me is by email!
 <p align="center">
   <a href="https://twitter.com/cityheightspad5"><img src="https://img.shields.io/badge/Twitter-1e81b0?&style=plastic&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.codewars.com/users/LHuynh05"><img src="https://img.shields.io/badge/Codewars-1e81b0?style=plastic&logo=Codewars&logoColor=white" height=25></a>
-  <a href="mailto:lahuynh@hawaii.edu"><img src="https://img.shields.io/badge/Email-1e81b0?style=plastic&logo=gmail&logoColor=white" height=25></a>
+  <a href="mailto:leon.huynh1126@gmail.com"><img src="https://img.shields.io/badge/Email-1e81b0?style=plastic&logo=gmail&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/leon-huynh-4872411a4/"><img src="https://img.shields.io/badge/LinkedIn-1e81b0?style=plastic&logo=linkedin&logoColor=white" height=25></a>
   <!-- <a href="https://dev.to/raeplusplus"><img src="https://img.shields.io/badge/Download_Resume-CB4D89?style=plastic&logo=googledrive&logoColor=white" height=25></a> -->
 </p>
