@@ -5,13 +5,13 @@
   							Aloha, I'm Leon.
 </p>
 <p align="center">
-  A software engineer inspired to make impactful changes to society with technology.  My motto is the only constant is change.    
+  I enjoy anything that is logic base! Since I was six, i started playing Chinese Chess and played some city wide tournaments as I got older.  I am a huge poker enthusiast because of the logic and the psychology aspect of the game.  Naturally using logic to find solutions is what I'm good at so a career as a Software Engineer only made LOGICAL sense.   
 </p>
 <p align="center">
-I'm currently working on an app that serves as a directory for tourist visiting Hawaii.
+I'm currently working on a hiking application that allows users to search hiking spots near them and allows the user to create a hiking list to accomplished.
 </p>
 <p align="center">
-I'm pretty good at poker, when I get the right cards.  Want to play? 
+The best way to reach me is by email!
 </p>
 
 <!-- SOCIALS -->
