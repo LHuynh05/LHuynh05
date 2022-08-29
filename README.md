@@ -81,7 +81,7 @@ The best way to reach me is by email!
             </p>
           </p>
         </td>
-        <td width="30%">
+        <td width="25%">
           <h3 align="center">Built to Last</h3>
           <p align="left">
             <a href="https://github.com/LHuynh05/Built-to-Last " target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/ZPOH3E8tWX2ykJDXmA/giphy-downsized-large.gif" alt="project example"/> </a>
