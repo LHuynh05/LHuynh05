@@ -82,12 +82,12 @@ The best way to reach me is by email!
           </p>
         </td>
         <td width="30%">
-          <h3 align="center">Yggdrasil</h3>
+          <h3 align="center">Built to Last</h3>
           <p align="left">
-            <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QeMX9lXSqisQ8jZUua/giphy-downsized-large.gif" alt="project example"/> </a>
-            <span> <a href="https://github.com/raeplusplus/Yggdrasil" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="18px"></a> </span>
+            <a href="https://github.com/LHuynh05/Built-to-Last " target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/QeMX9lXSqisQ8jZUua/giphy-downsized-large.gif" alt="project example"/> </a>
+            <span> <a href="https://github.com/LHuynh05/Built-to-Last" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffd700?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a> <a href="https://yggdrasilrealm.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-WEBSITE-ffd700?style=flat-square" alt="button to live site" height="18px"></a> </span>
             <p align="center">
-              <strong>Tech Stack: JavaScript, HTML5, CSS3, Webpack - </strong>Yggdrasil is an elegant, but simple site designed to show off the equally elegant brand.
+              <strong>Tech Stack: JavaScript, HTML5, CSS3, PHP - </strong>Built to Last web application was focus on captivating the user with videos and interactive landing page.
             </p>
           </p>
         </td>
