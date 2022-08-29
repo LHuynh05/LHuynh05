@@ -51,7 +51,7 @@ The best way to reach me is by email!
           <h3 align="center">Jobiz.Tattoo</h3>
           <p align="center">
             <a href="https://https://github.com/LHuynh05/Jobiz.Tattoo" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/jDSoZGfoXRwPoUkR6Q/giphy-downsized-large.gif" alt="project example"/> </a>
-            <span width="50%"> <a href="https://github.com/LHuynh05/Jobiz.Tattoo" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="25px"><img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="25px"></a> </span>
+            <span> <a href="https://github.com/LHuynh05/Jobiz.Tattoo" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="15px"><img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="15px"></a> </span>
             <p align="center">
               <strong>What I used: JavaScript, HTML5, CSS3,  - </strong>Jobiz.Tattoo is a simple responsive site that display the artist's beautiful work.
             </p>
