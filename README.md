@@ -47,7 +47,7 @@ The best way to reach me is by email!
 <div align="center">
   <table>
       <tr>
-        <td width="30%">
+        <td width="20%">
           <h3 align="center">Jobiz.Tattoo</h3>
           <p align="center">
             <a href="https://https://github.com/LHuynh05/Jobiz.Tattoo" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/jDSoZGfoXRwPoUkR6Q/giphy-downsized-large.gif" alt="project example"/> </a>
