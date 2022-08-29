@@ -81,7 +81,7 @@ The best way to reach me is by email!
             </p>
           </p>
         </td>
-        <td width="50%">
+        <td width="30%">
           <h3 align="center">Yggdrasil</h3>
           <p align="center">
             <a href="https://github.com/raeplusplus/yggdrasil" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/6gjHYgUgjpJxhD1JtA/giphy.gif" alt="project example"/> </a>
