@@ -84,7 +84,7 @@ The best way to reach me is by email!
         <td width="30%">
           <h3 align="center">Stranger Thing Character Info</h3>
           <p align="left">
-            <a href="https://github.com/LHuynh05/Stranger-Things-API-Project " target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/lEeJAc4Wa5vYProcuj/giphy-downsized-large.gif" alt="project example"/> </a>
+            <a href="https://github.com/LHuynh05/Stranger-Things-API-Project " target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/jDSoZGfoXRwPoUkR6Q/giphy-downsized-large.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/LHuynh05/Stranger-Things-API-Project " target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>
             <p align="center">
               <strong>Tech Stack: JavaScript, HTML5, CSS3, PHP - </strong>Built to Last web application was focus on captivating the user with videos and interactive landing page.
