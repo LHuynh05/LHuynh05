@@ -93,6 +93,6 @@ The best way to reach me is by email!
         </td>
       </tr>
   </table>
-  -->
+
 </div>
 </body>
