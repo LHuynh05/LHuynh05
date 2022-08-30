@@ -8,7 +8,7 @@
   I enjoy anything that is logic base! Since I was six, i started playing Chinese Chess and played some city wide tournaments as I got older.  I am a huge poker enthusiast because of the logic and the psychology aspect of the game.  Naturally using logic to find solutions is what I'm good at so a career as a Software Engineer only made LOGICAL sense.   
 </p>
 <p align="center">
-I'm currently working on a hiking application that allows users to search hiking spots near them and allows the user to create a hiking list to accomplished.
+I'm currently working on a mental health journal where users can input their feelings for the day, then resources will be provided to the user to help them build coping mechanisms.
 </p>
 <p align="center">
 The best way to reach me is by email!
