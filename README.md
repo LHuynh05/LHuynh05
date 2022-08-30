@@ -47,9 +47,9 @@ The best way to reach me is by email!
 <div align="center">
   <table>
       <tr>
-        <td width="30%">
+        <td width="50%">
           <h3 align="center">Jobiz.Tattoo</h3>
-          <p align="left">
+          <p align="center">
             <a href="https://https://github.com/LHuynh05/Jobiz.Tattoo" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/rAkTLuqSOVdbEYIA3c/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/LHuynh05/Jobiz.Tattoo" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://jobiz-tattoo.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>
             <p align="center">
@@ -57,9 +57,9 @@ The best way to reach me is by email!
             </p>
           </p>
         </td>
-        <td width="30%">
+        <td width="50%">
           <h3 align="center">De Lotus Salon</h3>
-          <p align="left">
+          <p align="center">
             <a href="https://github.com/LHuynh05/De-Lotus-Hair-Salon" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/UVhG9KyS1YLz1FHvSR/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/LHuynh05/De-Lotus-Hair-Salon" target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://https://de-lotus-salon.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>
             <p align="center">
@@ -71,9 +71,9 @@ The best way to reach me is by email!
   </table>
   <table>
       <tr>
-        <td width="30%">
+        <td width="50%">
           <h3 align="center">Stranger Thing Character Info</h3>
-          <p align="left">
+          <p align="center">
             <a href="https://github.com/LHuynh05/Stranger-Things-API-Project " target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/HsP2HwndbIN6HG5sQ1/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/LHuynh05/Stranger-Things-API-Project " target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://stranger-things-character-info-api.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>
             <p align="center">
@@ -81,9 +81,9 @@ The best way to reach me is by email!
             </p>
           </p>
         </td>
-        <td width="30%">
+        <td width="50%">
           <h3 align="center">Built to Last</h3>
-          <p align="left">
+          <p align="center">
             <a href="https://github.com/LHuynh05/Built-to-Last " target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/gxJJpI7wimhoINJ1hQ/giphy.gif" alt="project example"/> </a>
             <span> <a href="https://github.com/LHuynh05/Built-to-Last " target="_blank" rel="noreferrer""><img src="https://img.shields.io/badge/-CODE-ffb765?style=flat-square&logo=github&logoColor=000000" alt="button to repository" height ="18px"></a><a href="https://built-to-last-cali.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-WEBSITE-ffb765?style=flat-square" alt="button to live site" height="18px"></a> </span>
             <p align="center">
